@@ -1,5 +1,7 @@
 # Rescommender-System
-Experiment and Dataset about the RS
+Experiment and Dataset about the RS<br>
+[User Behavior Data on Taobao App](https://tianchi.aliyun.com/datalab/dataSet.html?spm=5176.100073.0.0.16ca3ea7n771BU&dataId=46)<br>
+[The Dataset Format](https://tianchi.aliyun.com/competition/information.htm?spm=5176.100067.5678.2.2f7378f6K40P0t&raceId=1)<br>
 ## SPTF：SPTF: A Scalable Probabilistic Tensor Factorization Model for Semantic-Aware Behavior Prediction
 ### Dataset
   It is publiced by the Paper authors.Thanks!<br>
