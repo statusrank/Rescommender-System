@@ -14,5 +14,5 @@ Experiment and Dataset about the RS<br>
 ### Experiment
   Based on the paper mentioned, the Dataset should have an column of timestamps.But I can't find this.It only includes three columns that I mentioned above.
   Firstly ,they rank these behavior records according to their timestamps,and the train/test/validation is 80/10/10 percent.
-  
+  The details of the experiment see Blog,mentioned above.
   
