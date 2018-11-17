@@ -8,4 +8,5 @@ Experiment and Dataset about the RS<br>
   It is publiced by the Paper authors.Thanks!<br>
   [The dataset is provided by T-mall in 2014.]( http://pan.baidu.com/s/1mhQ0ifQ)  password: jrlb <br>
   This dataset contains 480,723 products,10000 users and their generated twenty-million behavior records during 18/11/2014-18/12/2014.
-  
+  #### Dataset Format
+    user_id item_id action type  // user_id 标识唯一user,item_id 标识唯一item, action type  = {1,2,3,4} 分别表示click、add-to-favorite、add-to-cart、purchase  
