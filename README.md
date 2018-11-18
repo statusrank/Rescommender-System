@@ -2,6 +2,7 @@
 Experiment and Dataset about the RS<br>
 [User Behavior Data on Taobao App](https://tianchi.aliyun.com/datalab/dataSet.html?spm=5176.100073.0.0.16ca3ea7n771BU&dataId=46)<br>
 [The Dataset Format](https://tianchi.aliyun.com/competition/information.htm?spm=5176.100067.5678.2.2f7378f6K40P0t&raceId=1)<br>
+[User Behavior Data from Taobao for Recommendation](https://tianchi.aliyun.com/datalab/dataSet.html?spm=5176.100073.0.0.740b3ea7jTKRA1&dataId=649)
 ## SPTF：SPTF: A Scalable Probabilistic Tensor Factorization Model for Semantic-Aware Behavior Prediction
 [论文](https://ieeexplore.ieee.org/document/8215531)
 [Blog](https://statusrank.xyz/2018/11/14/SPTF/)<br>
