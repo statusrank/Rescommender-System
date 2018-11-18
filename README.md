@@ -10,9 +10,9 @@ Experiment and Dataset about the RS<br>
   [The dataset is provided by T-mall in 2014.]( http://pan.baidu.com/s/1mhQ0ifQ)  password: jrlb <br>
   This dataset contains 480,723 products,10000 users and their generated twenty-million behavior records during 18/11/2014-18/12/2014.
   #### Dataset Format
-    user_id item_id action type  // user_id 标识唯一user,item_id 标识唯一item, action type  = {1,2,3,4} 分别表示click、add-to-favorite、add-to-cart、purchase  
-    We also have three sets,including a set of user,item and action type.<br>
-    In this experiment , we randomly generate them as a Gaussian prior.<br>
+   user_id item_id action type  // user_id 标识唯一user,item_id 标识唯一item, action type  = {1,2,3,4} 分别表示click、add-to-favorite、add-to-cart、purchase  
+   We also have three sets,including a set of user,item and action type.<br>
+   In this experiment , we randomly generate them as a Gaussian prior.<br>
 ### Experiment
   Based on the paper mentioned, the Dataset should have an column of timestamps.But I can't find this.It only includes three columns that I mentioned above.
   Firstly ,they rank these behavior records according to their timestamps,and the train/test/validation is 80/10/10 percent.
