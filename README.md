@@ -29,8 +29,8 @@ Experiment and Dataset about the RS<br>
     movieId,title,genres<br>
   tags.csv<br>
     userId,movieId,tag,timestamp<br>
-  ratings.csv
-    userId,movieId,rating,timestamp
-  link.csv
-    movieId,imdbId,tmdbId
+  ratings.csv<br>
+    userId,movieId,rating,timestamp<br>
+  link.csv<br>
+    movieId,imdbId,tmdbId<br>
 
