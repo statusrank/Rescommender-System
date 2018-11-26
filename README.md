@@ -21,14 +21,14 @@ Experiment and Dataset about the RS<br>
 
 ## Extreme Learning to Rank via Low Rank Assumption
 ### Dataset
-  [Yahoo! Movies User Ratings and DescriptiveContent Information ](https://webscope.sandbox.yahoo.com/catalog.php?datatype=r)
-  [ MovieLens 20M Dataset](https://grouplens.org/datasets/movielens/)
+  [Yahoo! Movies User Ratings and DescriptiveContent Information ](https://webscope.sandbox.yahoo.com/catalog.php?datatype=r)<br>
+  [ MovieLens 20M Dataset](https://grouplens.org/datasets/movielens/)<br>
   It contains 20000263 ratings and 465564 tag applications across 27278 movies. These data were created by 138493 users.
   #### Dataset Format 
-  Movies.csv
-    movieId,title,genres
-  tags.csv
-    userId,movieId,tag,timestamp
+  Movies.csv<br>
+    movieId,title,genres<br>
+  tags.csv<br>
+    userId,movieId,tag,timestamp<br>
   ratings.csv
     userId,movieId,rating,timestamp
   link.csv
